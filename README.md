@@ -32,13 +32,6 @@ Passionate about building scalable software, AI-powered applications, and data-d
 * 🤖 Building AI applications using LLMs, RAG, LangChain, LangGraph & Vector Databases
 * 🌱 Exploring AI Agents, System Design, Cloud Technologies & Financial Technology
 
-### 📂 Featured Projects
-
-* 📈 **ShareBazar** — Microservices-Based Stock Trading Simulation Platform
-* 🤖 **AI Career Co-Pilot** — Resume Analysis, ATS Optimization & Interview Preparation
-* 💹 **Probo ↔ Polymarket Arbitrage Detector** — Real-Time Market Matching & Opportunity Discovery
-* 🔗 **DApp Token Farm** — Blockchain Staking Platform using Solidity & Web3
-
 ### ⚙️ Tech Stack
 
 * ☕ Java, Spring Boot

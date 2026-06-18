@@ -110,3 +110,43 @@ Blockchain staking platform with MetaMask integration.
 **Tech:** Solidity, Ethereum, Web3.js
 
 </div>
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+
+<img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=F89820"/>
+
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+
+<img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<img src="https://img.shields.io/badge/LangChain-20232A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-20232A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WebSocket-20232A?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+<img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehakrajpal207&show_icons=true&theme=tokyonight" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakrajpal207&layout=compact&theme=tokyonight" />
+</p>
+
+<h2 align="center">💙 Thanks for Visiting!</h2>
+
+<p align="center">
+⭐ Star a repository if you enjoyed my work ⭐
+</p>

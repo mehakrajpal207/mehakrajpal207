@@ -64,7 +64,7 @@ Passionate about building scalable software, AI-powered applications, and data-d
 
 I enjoy combining Software Engineering, AI, and Financial Technology to build intelligent systems that solve real-world problems.
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true" width="100%">
+![Snake animation](https://raw.githubusercontent.com/mehakrajpal207/mehakrajpal207/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">🚀 Top Projects</h2>
 

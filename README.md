@@ -54,5 +54,8 @@ Passionate about building scalable software, AI-powered applications, and data-d
 * 🎯 Continuous Learner
 * 💡 Passionate about building products that create real-world impact
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehakrajpal207&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mehakrajpal207?label=FOLLOWERS&style=for-the-badge&color=A855F7" alt="Followers" />
+</p>
 
